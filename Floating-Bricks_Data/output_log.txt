@@ -1,0 +1,35 @@
+Mono path[0] = 'F:/Softwares and Stuff/PENDRIVE/MIC Project/Floating Bricks/Floating Bricks_Data/Managed'
+Mono path[1] = 'F:/Softwares and Stuff/PENDRIVE/MIC Project/Floating Bricks/Floating Bricks_Data/Mono'
+Mono config path = 'F:/Softwares and Stuff/PENDRIVE/MIC Project/Floating Bricks/Floating Bricks_Data/Mono/etc'
+PlayerConnection initialized from F:/Softwares and Stuff/PENDRIVE/MIC Project/Floating Bricks/Floating Bricks_Data (debug = 0)
+PlayerConnection initialized network socket : 0.0.0.0 55406
+Multi-casting "[IP] 172.19.18.23 [Port] 55406 [Flags] 3 [Guid] 1671968111 [EditorId] 2802544315 [Version] 1048832 [Id] WindowsPlayer(Home) [Debug] 1" to [225.0.0.222:54997]...
+Waiting for connection from host on [172.19.18.23:55406]...
+Timed out. Continuing without host connection.
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,defer=y,address=0.0.0.0:56111
+PlayerConnection already initialized - listening to [172.19.18.23:55406]
+Initialize engine version: 5.2.2f1 (3757309da7e7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon(TM) R5 M430 (ID=0x6660)
+    Vendor:   ATI
+    VRAM:     2039 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: F:\Softwares and Stuff\PENDRIVE\MIC Project\Floating Bricks\Floating Bricks_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading F:\Softwares and Stuff\PENDRIVE\MIC Project\Floating Bricks\Floating Bricks_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: F:\Softwares and Stuff\PENDRIVE\MIC Project\Floating Bricks\Floating Bricks_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading F:\Softwares and Stuff\PENDRIVE\MIC Project\Floating Bricks\Floating Bricks_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: F:\Softwares and Stuff\PENDRIVE\MIC Project\Floating Bricks\Floating Bricks_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading F:\Softwares and Stuff\PENDRIVE\MIC Project\Floating Bricks\Floating Bricks_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: F:\Softwares and Stuff\PENDRIVE\MIC Project\Floating Bricks\Floating Bricks_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading F:\Softwares and Stuff\PENDRIVE\MIC Project\Floating Bricks\Floating Bricks_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: F:\Softwares and Stuff\PENDRIVE\MIC Project\Floating Bricks\Floating Bricks_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.058 seconds
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: F:\Softwares and Stuff\PENDRIVE\MIC Project\Floating Bricks\Floating Bricks_Data\Managed\System.dll (this message is harmless)
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 152c -> priority: 1 
